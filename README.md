@@ -28,9 +28,9 @@ AccurateTracking is a mobile application which is used to track the user’s cur
 <img src="https://user-images.githubusercontent.com/32632834/42433713-5ffd42b6-8305-11e8-9e27-23db5ad7a1d9.png" widht="700" height="400"></img>
 ### Login Form
 <img src="https://user-images.githubusercontent.com/32632834/42433717-6268a3ce-8305-11e8-82ef-c36c48665ab8.png" widht="700" height="400"></img>
-### Screen showing the user’s current location using Google Maps and Geocoder API
+### User’s current address
 <img src="https://user-images.githubusercontent.com/32632834/42433721-66ba35d2-8305-11e8-9058-6d98a27fd55a.png" widht="700" height="400"></img>
 ### Anomaly detection
 <img src="https://user-images.githubusercontent.com/32632834/42433724-69463904-8305-11e8-8389-a5d018c5d170.png" widht="700" height="400"></img>
-### The marker shows the address of the location when clicked
-<img src="https://user-images.githubusercontent.com/32632834/42433727-6b46962c-8305-11e8-984b-e3ae2281ec4d" widht="700" height="400"></img>
+### Address shown when marker is clicked
+<img src="https://user-images.githubusercontent.com/32632834/42433727-6b46962c-8305-11e8-984b-e3ae2281ec4d.png" widht="700" height="400"></img>
