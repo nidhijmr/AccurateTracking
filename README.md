@@ -15,7 +15,7 @@ AccurateTracking is a mobile application which is used to track the user’s cur
 ## Technical Stack
 1.	Device Platform – Android
 2.	Tool Kit – Android Studio
-3.	Cloud Services – AWS (Cognito, DynamoDB, Kinesis Streams, Lambda, Kinesis Data Analytics, Kinesis Statistical and Deviatoon Function) 
+3.	Cloud Services – AWS (Cognito, DynamoDB, Kinesis Streams, Lambda, Kinesis Data Analytics, Kinesis Statistical and Deviation Function) 
 4.	AWS Mobile SDK is used to programmatically invoke AWS APIs to perform various application functionalities.
 5.	Database – Amazon DynamoDB 
 6.	Google Maps and GeoCoder API
